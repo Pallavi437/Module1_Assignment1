@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <head>
-    
-    <title>MODULE1-ASSIGNMENT-1</title>
+     <title>MODULE1-ASSIGNMENT-1</title>
 </head>
 <body>
     <header>
@@ -30,15 +29,12 @@
         Phone<br>&emsp;&emsp;&emsp;+1(425)882-4040
         </p>
     </div>
-
     <div>
         <h3>Customers</h3>
         <a href="#">Camille</a><p>University of Paris</p>
-        
         <a href="#">Michel</a>
-        <p>University of Paris</p>
+       <p>University of Paris</p>
     </div>
-
     <aside>
         <h3>New Inventory</h3>
         <img src="images/i2.jpg" alt="image of textbook1" width="150" height="200">
@@ -48,8 +44,6 @@
         <img src="images/i4.jpg" alt="image of textbook2" width="150" height="200">
         <p>Basics of Web Design:HTML5 & CSS by Felke-Morris  </p>
     </aside>
-
-
 <footer>
     <a href="#">Home|Catalog|Location</a>
     <p>copyright &copy; 2017 CRM Admin</p>
