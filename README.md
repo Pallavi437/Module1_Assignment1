@@ -41,11 +41,11 @@
 
     <aside>
         <h3>New Inventory</h3>
-        <img src="https://www.pearsonhighered.com/assets/bigcovers/0/1/3/2/0132145375.jpg" alt="image of textbook1" width="150" height="200">
+        <img src="images/i2.jpg" alt="image of textbook1" width="150" height="200">
         <p>Database Processing by Kroenke.Aver</p>
-        <img src="https://images-na.ssl-images-amazon.com/images/I/51vxuWD5FGL._SX258_BO1,204,203,200_.jpg" alt="image of textbook2" width="150" height="200">
+        <img src="images/i3.jpg" alt="image of textbook2" width="150" height="200">
         <p>Fundamentals of web Development by Connolly,Hoar</p>
-        <img src="https://images-na.ssl-images-amazon.com/images/I/81Mc3Q06NqL.jpg" alt="image of textbook2" width="150" height="200">
+        <img src="images/i4.jpg" alt="image of textbook2" width="150" height="200">
         <p>Basics of Web Design:HTML5 & CSS by Felke-Morris  </p>
     </aside>
 
