@@ -1,4 +1,4 @@
-<html>
+<!Doctype html>
 <head>     
  <title>MODULE1-ASSIGNMENT-1</title>
 </head>
