@@ -17,7 +17,8 @@
     <div>
         <h2>Employee Profile</h2>
         <h4>Photo</h4>
-        <img src="images/i1 (2).jpg" alt="profile picture" width="150" height="150">
+        ![i1 (2)](https://user-images.githubusercontent.com/82874209/116236681-fe599880-a77c-11eb-84f7-d6aa504e99b1.jpg)
+
         <p>&emsp;&emsp;&emsp;Jenny </p>
         <h3>Personal Data</h3>
         <p>Address<br>&emsp;&emsp;&emsp;1 Microsoft Way
