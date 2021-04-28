@@ -51,7 +51,7 @@
 
 <footer>
     <a href="#">Home|Catalog|Location</a>
-    <p>copyright &copy; 2017 CRM Admin</p>
+    <p>copyright &copy; 2021 CRM Admin</p>
 </footer>
 </body>   
 </html>
